@@ -12,5 +12,5 @@ switcher.addEventListener('click', function() {
     else {
         this.textContest = "Light";
     }
-    
+
 });
